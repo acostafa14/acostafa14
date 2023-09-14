@@ -1,16 +1,17 @@
-### Hi there 👋
+# Frank Acosta - Florida International University Student :briefcase:
 
-<!--
-**acostafa14/acostafa14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience :computer:
 
-Here are some ideas to get you started:
+- **Bank of New York Mellon** - Chief Administrative Office Intern - Global Corporate Services Division
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact :tada:
+
+I've played 7 sports growing up. 
+
+## Projects :rocket:
+
+
+
+## Connect with Me :LinkedIn:
+
+Here is my [LinkedIn](https://www.linkedin.com/in/frank-acosta-business/) if you want to connect :smiley:
